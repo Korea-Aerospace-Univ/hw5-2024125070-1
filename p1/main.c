@@ -35,7 +35,7 @@ int main()
     
     // 조건을 만족하는 경우가 하나도 없을 때
     if (count == false) {
-        printf("none");
+        printf("none\n");
     }
     
     return 0;
